@@ -1,4 +1,14 @@
 FizzBuzz
 ========
 
-This project was all about learning rspec via the old kids' game, FizzBuzz. The fizzbuzz.rb file came after the fizzbuzz_spec.rb testing file, with development going back and forth in small steps to produce the clearest code possible for the task.
+A Ruby version of the popular children's game.
+
+Objectives
+--
+
+Primarily a way of introducing us to Rspec, the challenge was to use TDD to build a simple Ruby program to play Fizzbuzz. In Fizzbuzz, the player counts from 1 to 100, but replaces any number divisble by 3 with "Fizz", any number divisible by 5 with "Buzz", and those divisible by 3 and 5 with "Fizzbuzz"
+
+Technologies used
+--
+- Ruby
+- Rspec
